@@ -30,7 +30,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNAME'),
-'8000-ruairikeane-djangowalkt-k67xdkbgja4.ws-eu110.gitpod.io']
+'8000-ruairikeane-djangowalkt-k67xdkbgja4.ws-eu110.gitpod.io',
+'ckz8780-django-todo-app-7191cad05e65.herokuapp.com']
 
 
 # Application definition
