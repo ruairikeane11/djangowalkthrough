@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-ym*e$3+)(1e+lywkp(yc3+h#$3l-vcg=gx3*9bo73tuyt8v88s
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-ruairikeane-djangowalkt-k67xdkbgja4.ws-eu110.gitpod.io',
-'https://ckz8780-django-todo-app-7191cad05e65.herokuapp.com/',
+'https://ckz8780-django-todo-app-7191cad05e65.herokuapp.com',
 'ckz8780-django-todo-app-7191cad05e65.herokuapp.com']
 
 
